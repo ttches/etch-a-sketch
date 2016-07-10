@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+  background: none repeat scroll 0 0 #f3f3f3;
+  margin: 0;
+ }
+ul {
+	float: right;
+	margin-top: 80px;
+	list-style-type: none;
+}
+li {
+	margin-right: 80px;
+}
+#wrapper {
+	width: 920px;
+	margin: 20px auto;
+}
+.row {
+    width: auto;
+    height: 16px;
+}
+.pixel {
+	background-color: white;
+	display: inline-block;
+	margin: 0px;
+	padding: 0;
+	outline: 1px solid;
+	height: 16px;
+	width: 16px;
+}
+#picked {
+	background-color: black;
+	margin-bottom: 90px;
+	height: 60px;
+	width: 60px;
+	border-radius: 8%;
+
+}
+.color {
+	border: 1px, solid, black;
+	height: 32px;
+	width: 32px;
+	border-radius: 8%;
+}
